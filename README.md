@@ -1,3 +1,5 @@
+[日本語版 (Japanese)](README.ja.md)
+
 # Semisolve: Python-based III-V Nitride Semiconductor Device Simulation Framework
 
 **Semisolve** is a flexible, Python-based simulation framework designed for analyzing the physical behavior of III-V Nitride-based semiconductor heterostructures. 

@@ -22,6 +22,13 @@ Moving beyond traditional "black-box" TCAD tools, Semisolve provides a **"Script
 * **Current Phase:** **Private Development.** I am currently specializing in 1D band diagram calculations and self-consistent IV characteristic simulations for III-V Nitride heterostructures.
 * **Public Release Target:** **Mid-2026**
 
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
+
+**Disclaimer regarding Intellectual Property:**
+This software is developed based on public facts described in academic papers and textbooks. If it infringes upon anyone's intellectual property, please contact the developer, and the relevant parts will be privatized or corrected.
+
 ---
 
 ## Contact
